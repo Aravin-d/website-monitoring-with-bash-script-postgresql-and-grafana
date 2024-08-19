@@ -2,8 +2,8 @@
 
 
 export PGDATABASE="websites_db"
-export PGUSER="vonnue"
-export PGPASSWORD="vonnue"
+export PGUSER="******"
+export PGPASSWORD="******"
 
 
 result_file="web_results.csv"
